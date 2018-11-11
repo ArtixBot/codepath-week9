@@ -11,7 +11,7 @@ Codepath Week 9 Submission.
 - The install process for `install.sh` required login credentials and then tried to install a now deleted repository from the repository owner HurricaneLabs. I had to navigate to the `install_hpfeeds.sh` file to change the host from HurricaneLabs to couozu (thanks, anonymous GitHub user!)
 
 # Data Collected: number of attacks, number of malware samples, etc.
-- Only one attack was collected, strangely enough. If I had to guess, there was still a hidden issue with how the MHN was setup which was causing this issue.
+- 35 attacks. This will increase indefinitely as the honeypot continues to exist.
 
 # Unresolved Questions
 - How are these attacks even occuring on a site which hasn't advertised its presence anywhere on the Internet?
